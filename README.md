@@ -406,11 +406,3 @@ Wang, H. (2023). *Introduction to computer programming with Python*.
 Published by Remix, an imprint of Athabasca University Press. DOI: https://doi.org/10.15215/remix/9781998944088.01
 
 Garrity, Peter (2000). *MBA compacto: Matemática aplicada aos negócios.* Tradução de André Oighenstei - Rio de Janeiro. Editora Campus.
-
-
-
-
-
-```python
-
-```
