@@ -2,7 +2,7 @@
 
 A receita para fazer o seu dinheiro crescer é simples, leva poucos ingredientes. Basta juntar o fermento à massa, e esperar a mágica acontecer. A massa corresponde ao capital inicial (ou recursos disponíveis para investimento), enquanto o fermento corresponde aos juros (o elemento que faz a massa ou o montante crescer). Contudo, para que a química ocorra, é preciso um terceiro ingrediente, comum aos dois domínios, que em tese é abundante e está disponível para todo mundo: o tempo.
 
-Mas tem um detalhe que torna a analogia imperfeita: se deixarmos crescer além do prazo determinado, a massa do bolo transborda e estraga a receita. Ao contrário do dinheiro, cuja missão é justamente essa: fazer crescer infinitamente.
+Mas tem um detalhe que torna a analogia imperfeita: se deixarmos crescer além do prazo determinado, a massa do bolo desanda e estraga a receita. Ao contrário do dinheiro, cuja missão é justamente essa: fazer crescer infinitamente.
 Se abstrairmos as variáveis que interferem no processo, podemos afirmar que a dinâmica da capitalização ou composição dos juros depende do período de atualização do capital, pois quanto maior a frequência de capitalização, maior o valor futuro.
 
 Em *Matemática aplicada aos negócios*, **Peter Garrity** especula sobre a capitalização *contínua* (definida como um número de períodos que aumenta constantemente), conceito que nos leva ao número de **Euler**, representado pela letra $e$, constante matemática irracional fundamental, aproximadamente igual a **2,71828**, que é a base dos logaritmos naturais e foi assim denominado em homenagem ao matemático suíço **Leonhard Euler**, que estudou profundamente suas propriedades, embora não tenha sido seu descobridor original.
