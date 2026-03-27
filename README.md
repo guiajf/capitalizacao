@@ -1,6 +1,6 @@
 ## Receita para fazer o dinheiro crescer
 
-A receita para fazer o seu dinheiro crescer é simples, leva poucos ingredientes. Basta juntar o fermento à massa, e esperar a mágica acontecer. A massa corresponde ao capital inicial (ou dinheiro disponível), enquanto o fermento corresponde aos juros (o elemento que faz a massa ou o dinheiro crescer). Contudo, para que a química ocorra, é preciso um terceiro ingrediente, comum aos dois domínios, que em tese é abundante e está disponível para todo mundo: o tempo.
+A receita para fazer o seu dinheiro crescer é simples, leva poucos ingredientes. Basta juntar o fermento à massa, e esperar a mágica acontecer. A massa corresponde ao capital inicial (ou recursos disponíveis para investimento), enquanto o fermento corresponde aos juros (o elemento que faz a massa ou o montante crescer). Contudo, para que a química ocorra, é preciso um terceiro ingrediente, comum aos dois domínios, que em tese é abundante e está disponível para todo mundo: o tempo.
 
 Mas tem um detalhe que torna a analogia imperfeita: se deixarmos crescer muito tempo, a massa do bolo transborda e estraga a receita. Ao contrário do dinheiro, cuja missão é justamente essa: fazer crescer infinitamente.
 Se abstrairmos as variáveis que interferem no processo, podemos afirmar que a dinâmica da capitalização ou composição dos juros depende do período de atualização do capital, pois quanto maior a frequência de capitalização, maior o valor futuro.
