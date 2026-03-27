@@ -1,4 +1,4 @@
-se## Receita para fazer o dinheiro crescer
+## Receita para fazer o dinheiro crescer
 
 A receita para fazer o seu dinheiro crescer é simples, leva poucos ingredientes. Basta juntar o fermento à massa, e esperar a mágica acontecer. A massa corresponde ao capital inicial (ou recursos disponíveis para investimento), enquanto o fermento corresponde aos juros (o elemento que faz a massa ou o montante crescer). Contudo, para que a química ocorra, é preciso um terceiro ingrediente, comum aos dois domínios, que em tese é abundante e está disponível para todo mundo: o tempo.
 
