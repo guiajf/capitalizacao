@@ -6,7 +6,7 @@ Mas há um detalhe que torna a analogia imperfeita: na culinária, se deixarmos 
 
 É justamente essa ideia de aumentar indefinidamente a frequência dos períodos de capitalização que nos leva ao conceito de capitalização *contínua*, estudado por **Peter Garrity** em *Matemática aplicada aos negócios*. Nesse regime, o crescimento exponencial do montante é expresso matematicamente por meio do *número de Euler*, representado pela letra $$e$$, uma constante irracional aproximadamente igual a **2,71828**. Essa constante, que é a base dos logaritmos naturais, aparece naturalmente quando simulamos a capitalização em intervalos infinitesimais, isto é, quando o tempo é dividido em infinitos períodos.
 
-Para visualizar esse comportamento na prática, podemos utilizar um exemplo computacional. A seguir, representamos graficamente o crescimento do montante em função do tempo à medida que aumentamos a frequência de capitalização.
+Para visualizar esse comportamento na prática, podemos utilizar um exemplo de código em Python.A seguir, representamos graficamente o crescimento do montante em função do tempo à medida que aumentamos a frequência de capitalização.
 
 
 Para isso, adaptamos uma classe originalmente criada para implementar o modelo de crescimento de **Solow**, disponível em:
