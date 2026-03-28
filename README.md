@@ -12,7 +12,7 @@ Para visualizar esse comportamento na prática, podemos utilizar um exemplo comp
 Para isso, adaptamos uma classe originalmente criada para implementar o modelo de crescimento de **Solow**, disponível em:
 https://python-programming.quantecon.org/python_oop.html.
 
-**Criamos a Classe `Montante`
+**Criamos a Classe `Montante`**
 
 ```python
 class Montante:
