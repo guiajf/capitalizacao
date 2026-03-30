@@ -317,9 +317,9 @@ def criar_tabela_comparativa(C=100, i=0.10, t_anos=1):
 ```python
 if __name__ == "__main__":
     # Define os parâmetros
-    CAPITAL_INICIAL = 360.00
+    CAPITAL_INICIAL = 10000.00
     TAXA_NOMINAL = 0.10  # 10% a.a. (conforme tabela do livro)
-    TEMPO_ANOS = 2       # 24 meses = 2 anos
+    TEMPO_ANOS = 6       # 72 meses = 6 anos
     
     print("="*90)
     print("Análise de capitalização conforme Peter Garrity - Matemática aplicada aos negócios")
