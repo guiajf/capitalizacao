@@ -343,39 +343,35 @@ if __name__ == "__main__":
     print("frequência, gerando um efeito de 'juros sobre juros' mais intenso.")
 ```
 
-    ==========================================================================================
-    Análise de capitalização conforme Peter Garrity - Matemática aplicada aos negócios
-    ==========================================================================================
-    
-    ==========================================================================================
-    Tabela comparativa: capitalização com taxa nominal de 10.0% a.a.
-    Capital inicial: R$ 360.00 | Período: 2 ano(s)
-    ==========================================================================================
-    Período de capitalização  Períodos/Ano    Taxa efetiva anual   Montante Final 
-    ------------------------------------------------------------------------------------------
-    Anual                     1               10.0000%             R$     435.60
-    Semestral                 2               10.2500%             R$     437.58
-    Trimestral                4               10.3813%             R$     438.63
-    Mensal                    12              10.4713%             R$     439.34
-    Diária                    360             10.5156%             R$     439.69
-    Horária                   8640            10.5170%             R$     439.70
-    Contínua                  contínuo        10.5171%             R$     439.70
-    ==========================================================================================
-    Observação:
-    A taxa efetiva anual aumenta à medida que aumentam os períodos de capitalização.
-    No limite (capitalização contínua), a taxa efetiva tende a e^i - 1.
-    
-    
-    ======================================================================
-    Gráfico de evolução do montante
-    ======================================================================
-    Anual (1x/ano): R$ 435.60
-    Semestral (2x/ano): R$ 437.58
-    Trimestral (4x/ano): R$ 438.63
-    Mensal (12x/ano): R$ 439.34
-    Diária (360x/ano): R$ 439.69
-    Horária (360x24/ano): R$ 439.70
-    Contínua (limite): R$ 439.70
+==========================================================================================
+Tabela comparativa: capitalização com taxa nominal de 10.0% a.a.
+Capital inicial: R$ 10000.00 | Período: 6 ano(s)
+==========================================================================================
+Período de capitalização  Períodos/Ano    Taxa efetiva anual   Montante Final 
+------------------------------------------------------------------------------------------
+Anual                     1               10.0000%             R$   17715.61
+Semestral                 2               10.2500%             R$   17958.56
+Trimestral                4               10.3813%             R$   18087.26
+Mensal                    12              10.4713%             R$   18175.94
+Diária                    360             10.5156%             R$   18219.67
+Horária                   8640            10.5170%             R$   18221.12
+Contínua                  contínuo        10.5171%             R$   18221.19
+==========================================================================================
+Observação:
+A taxa efetiva anual aumenta à medida que aumentam os períodos de capitalização.
+No limite (capitalização contínua), a taxa efetiva tende a e^i - 1.
+
+
+======================================================================
+Gráfico de evolução do montante
+======================================================================
+Anual (1x/ano): R$ 17715.61
+Semestral (2x/ano): R$ 17958.56
+Trimestral (4x/ano): R$ 18087.26
+Mensal (12x/ano): R$ 18175.94
+Diária (360x/ano): R$ 18219.67
+Horária (360x24/ano): R$ 18221.12
+Contínua (limite): R$ 18221.19
 
 
 
